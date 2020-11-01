@@ -1,10 +1,5 @@
 {
-	"results": [{
-			"name": "Ruby",
-			"year": "2012",
-			"quarter": "2",
-			"count": "18117"
-		},
+	"results": [
 		
 		{
 			"name": "JavaScript",
