@@ -51,7 +51,7 @@
 			"country": "United Kingdom"
 		}
 	],
-	"focused" : [
+	"focused" : 
 		{
 			"id": 1,
 			"ip": "126.154.33.255",
@@ -277,6 +277,6 @@
 					"y":1
 				}
 			]
-		}
-	]
+	}
+	
 }
