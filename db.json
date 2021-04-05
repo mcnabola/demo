@@ -7,7 +7,8 @@
 			"browser": "firefox",
 			"device": "Linux",
 			"count": "20",
-			"active": "02/Apr/2021 01:42:42"
+			"active": "02/Apr/2021 01:42:42",
+			"country": "Ireland"
 		},
 		
 		{
@@ -16,7 +17,8 @@
 			"browser": "ff",
 			"device": "windows10",
 			"count": "11",
-			"active": "02/Apr/2021 01:41:42"
+			"active": "02/Apr/2021 01:41:42",
+			"country": "Ireland"
 		},
 		
 		{
@@ -25,7 +27,8 @@
 			"browser": "ff",
 			"device": "win10",
 			"count": "10",
-			"active": "02/Apr/2021 01:32:42"
+			"active": "02/Apr/2021 01:32:42",
+			"country": "USA"
 		},
 		
 		{
@@ -34,7 +37,8 @@
 			"browser": "Chromium",
 			"device": "win10",
 			"count": "16",
-			"active": "02/Apr/2021 01:22:42"
+			"active": "02/Apr/2021 01:22:42",
+			"country": "France"
 		},
 		
 		{
@@ -43,7 +47,8 @@
 			"browser": "Firefox87",
 			"device": "win10",
 			"count": "20",
-			"active": "02/Apr/2021 01:12:42"
+			"active": "02/Apr/2021 01:12:42",
+			"country": "United Kingdom"
 		}
 	],
 	"focused" : [
