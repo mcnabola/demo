@@ -250,6 +250,32 @@
 					"x":"Sun",
 					"y":3
 				}
+			],
+			"popularwebsites": [
+				{
+					"x":"rocketry.neocities.org",
+					"y":7
+				},
+				
+				{
+					"x":"ctroypiz.za",
+					"y":5
+				},
+				
+				{
+					"x":"rocketry.neocities.org/explosive",
+					"y":5
+				},
+				
+				{
+					"x":"jamabons.direct/meal",
+					"y":2
+				},
+				
+				{
+					"x":"laptop.neocities.org/",
+					"y":1
+				}
 			]
 		}
 	]
