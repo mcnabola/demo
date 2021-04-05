@@ -1,163 +1,74 @@
 {
-	"results": [
+	"all": [
 		
 		{
-			"name": "JavaScript",
-			"year": "2012",
-			"quarter": "3",
-			"count": "20283"
+			"ip": "12.34.33.255",
+			"browser": "firefox",
+			"device": "Linux",
+			"count": "20",
+			"active": "02/Apr/2021 01:42:42"
 		},
 		
 		{
-			"name": "JavaScript",
-			"year": "2012",
-			"quarter": "4",
-			"count": "22485"
+			"ip": "12.35.33.25",
+			"browser": "ff",
+			"device": "windows10",
+			"count": "20",
+			"active": "02/Apr/2021 01:41:42"
 		},
 		
 		{
-			"name": "JavaScript",
-			"year": "2013",
-			"quarter": "1",
-			"count": "33897"
+			"ip": "12.14.133.255",
+			"browser": "ff",
+			"device": "win10",
+			"count": "10",
+			"active": "02/Apr/2021 01:32:42"
 		},
 		
 		{
-			"name": "JavaScript",
-			"year": "2013",
-			"quarter": "2",
-			"count": "39445"
+			"ip": "112.134.133.255",
+			"browser": "Chromium",
+			"device": "win10",
+			"count": "16",
+			"active": "02/Apr/2021 01:22:42"
 		},
 		
 		{
-			"name": "JavaScript",
-			"year": "2013",
-			"quarter": "3",
-			"count": "48213"
-		},
-		
-		{
-			"name": "JavaScript",
-			"year": "2013",
-			"quarter": "4",
-			"count": "61846"
-		},
-		
-		{
-			"name": "JavaScript",
-			"year": "2014",
-			"quarter": "1",
-			"count": "84127"
-		},
-		
-		{
-			"name": "JavaScript",
-			"year": "2014",
-			"quarter": "2",
-			"count": "97564"
-		},
-		
-		{
-			"name": "JavaScript",
-			"year": "2014",
-			"quarter": "3",
-			"count": "115824"
-		},
-		
-		{
-			"name": "JavaScript",
-			"year": "2014",
-			"quarter": "4",
-			"count": "129554"
-		},
-		
-		{
-			"name": "JavaScript",
-			"year": "2015",
-			"quarter": "1",
-			"count": "171489"
-		},
-		
-		{
-			"name": "JavaScript",
-			"year": "2015",
-			"quarter": "2",
-			"count": "198108"
-		},
-		
-		{
-			"name": "JavaScript",
-			"year": "2015",
-			"quarter": "3",
-			"count": "236531"
-		},
-		
-		{
-			"name": "JavaScript",
-			"year": "2015",
-			"quarter": "4",
-			"count": "299806"
-		},
-		
-		{
-			"name": "JavaScript",
-			"year": "2016",
-			"quarter": "1",
-			"count": "382098"
-		},
-		
-		{
-			"name": "JavaScript",
-			"year": "2016",
-			"quarter": "2",
-			"count": "409880"
-		},
-		
-		
-		{
-			"name": "JavaScript",
-			"year": "2016",
-			"quarter": "3",
-			"count": "406803"
-		},
-		
-		
-		{
-			"name": "JavaScript",
-			"year": "2016",
-			"quarter": "4",
-			"count": "419758"
-		},
-		
-		{
-			"name": "JavaScript",
-			"year": "2017",
-			"quarter": "1",
-			"count": "383738"
-		},
-		
-		{
-			"name": "JavaScript",
-			"year": "2017",
-			"quarter": "2",
-			"count": "422653"
-		},
-		
-		
-		{
-			"name": "JavaScript",
-			"year": "2017",
-			"quarter": "3",
-			"count": "294029"
-		},
-		
-		
-		{
-			"name": "JavaScript",
-			"year": "2017",
-			"quarter": "4",
-			"count": "269903"
+			"ip": "126.154.33.255",
+			"browser": "Firefox87",
+			"device": "win10",
+			"count": "20",
+			"active": "02/Apr/2021 01:12:42"
 		}
-
+	]
+	"focused" : [
+		{
+			"id": 1,
+			"ip": "126.154.33.255",
+			"browser": "Firefox87",
+			"device": "Linux Arch",
+			"count": "20",
+			"webpages": [
+				{
+					"url":"http://rocketry.neocities.org",
+					"accessed": "02/Apr/2021 01:12:42",
+					"status": "200"
+				}
+			],
+			"popularhours": [
+				{
+					"url":"http://rocketry.neocities.org",
+					"accessed": "02/Apr/2021 01:12:42",
+					"status": "200"
+				}
+			],
+			"populardays": [
+				{
+					"url":"http://rocketry.neocities.org",
+					"accessed": "02/Apr/2021 01:12:42",
+					"status": "200"
+				}
+			]
+		}
 	]
 }
