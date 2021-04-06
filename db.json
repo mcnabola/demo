@@ -4,7 +4,7 @@
 		{
 			"id":1,
 			"ip": "12.34.33.255",
-			"browser": "firefox",
+			"browser": "Firefox",
 			"device": "Linux",
 			"count": "20",
 			"active": "02/Apr/2021 01:42:42",
@@ -14,8 +14,8 @@
 		{
 			"id":2,
 			"ip": "12.35.33.25",
-			"browser": "ff",
-			"device": "windows10",
+			"browser": "FireFox",
+			"device": "Ubuntu",
 			"count": "11",
 			"active": "02/Apr/2021 01:41:42",
 			"country": "Ireland"
@@ -24,11 +24,11 @@
 		{
 			"id":3,
 			"ip": "12.14.133.255",
-			"browser": "ff",
-			"device": "win10",
+			"browser": "Chromium",
+			"device": "Windows 10",
 			"count": "10",
 			"active": "02/Apr/2021 01:32:42",
-			"country": "USA"
+			"country": "Ireland"
 		},
 		
 		{
@@ -38,7 +38,7 @@
 			"device": "win10",
 			"count": "16",
 			"active": "02/Apr/2021 01:22:42",
-			"country": "France"
+			"country": "Ireland"
 		},
 		
 		{
@@ -46,7 +46,7 @@
 			"ip": "126.154.33.255",
 			"browser": "Firefox87",
 			"device": "win10",
-			"count": "20",
+			"count": "1",
 			"active": "02/Apr/2021 01:12:42",
 			"country": "United Kingdom"
 		}
@@ -60,44 +60,39 @@
 			"count": "20",
 			"webpages": [
 				{
-					"url":"http://rocketry.neocities.org",
-					"accessed": "02/Apr/2021 01:12:42",
+					"url":"http://limerick.neocities.org",
+					"accessed": "06/Apr/2021 11:12:42",
 					"status": "200"
 				},
 				{
 					"url":"http://laptop.neocities.org",
-					"accessed": "03/Apr/2021 01:12:42",
-					"status": "200"
+					"accessed": "06/Apr/2021 11:12:58",
+					"status": "304"
+				},
+				{
+					"url":"http://rocketry.neocities.org/fin",
+					"accessed": "06/Apr/2021 11:13:10",
+					"status": "304"
 				},
 				{
 					"url":"http://rocketry.neocities.org",
-					"accessed": "04/Apr/2021 01:12:42",
-					"status": "200"
+					"accessed": "06/Apr/2021 11:13:20",
+					"status": "304"
 				},
 				{
-					"url":"http://rocketry.neocities.org",
-					"accessed": "05/Apr/2021 01:12:42",
-					"status": "200"
+					"url":"http://limerick.neocities.org",
+					"accessed": "06/Apr/2021 11:13:47",
+					"status": "304"
 				},
 				{
-					"url":"http://rocketry.neocities.org",
-					"accessed": "06/Apr/2021 01:12:42",
-					"status": "200"
+					"url":"http://laptop.neocities.org/track",
+					"accessed": "06/Apr/2021 11:14:42",
+					"status": "304"
 				},
 				{
-					"url":"http://rocketry.neocities.org",
-					"accessed": "07/Apr/2021 01:12:42",
-					"status": "200"
-				},
-				{
-					"url":"http://rocketry.neocities.org",
-					"accessed": "08/Apr/2021 01:12:42",
-					"status": "200"
-				},
-				{
-					"url":"http://rocketry.neocities.org",
-					"accessed": "09/Apr/2021 01:12:42",
-					"status": "200"
+					"url":"http://limerick.neocities.org",
+					"accessed": "06/Apr/2021 11:15:12",
+					"status": "304"
 				}
 			],
 			"popularhours": [
